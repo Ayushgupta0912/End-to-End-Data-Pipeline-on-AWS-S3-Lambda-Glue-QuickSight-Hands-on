@@ -9,4 +9,3 @@ First AWS Project
 - YouTube/Tutorial Reference
 - What I Learned
 - Live Demo Link (while active)
--    HFEUHJ ^*()
